@@ -32,7 +32,7 @@
     "has": "^1.0.3",
     "has-symbols": "^1.0.3",
     "http-errors": "^2.0.0",
-    "iconv-lite": "^0.4.24",
+    "iconv-lite": "^0.6.3",
     "inflection": "^1.13.2",
     "inherits": "^2.0.4",
     "ipaddr.js": "^1.9.1",

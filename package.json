@@ -66,7 +66,7 @@
     "postgres-date": "^1.0.7",
     "postgres-interval": "^1.2.0",
     "proxy-addr": "^2.0.7",
-    "qs": "^6.10.3",
+    "qs": "^6.11.0",
     "range-parser": "^1.2.1",
     "raw-body": "^2.5.1",
     "retry-as-promised": "^5.0.0",

@@ -72,7 +72,7 @@
     "retry-as-promised": "^5.0.0",
     "safe-buffer": "^5.2.1",
     "safer-buffer": "^2.1.2",
-    "semver": "^7.3.7",
+    "semver": "^7.5.2",
     "send": "^0.18.0",
     "sequelize": "^6.21.3",
     "sequelize-pool": "^7.1.0",
